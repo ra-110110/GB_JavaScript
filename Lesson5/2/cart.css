@@ -1,0 +1,14 @@
+.button {
+    display: flex;
+    flex-direction: column;
+    padding: 6px;
+    margin-top: 15px;
+    background-color: #EFF7F6;
+    color: #38023B;
+}
+
+.good {
+    color: dimgrey;
+    background-color: #EFF7F6;
+    width: 200px;
+}
